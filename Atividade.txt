@@ -1,0 +1,8 @@
+Crie uma tabela no banco, chamada de produto:
+Os atributos de produto serão:
+Id, nome, valor, descrição, quant_estoque;
+Crie um procedure para cadastrar produto e para consultar os produtos, crie um filtro para esta segunda função;
+Crie uma classe Produto (neste mesmo projeto) com cada um dos atributos criado no banco;
+Crie um método para cadastrar produto e um método para listar os produtos cadastrados.
+Crie uma interface para cadastrar e consultar os produtos. Esta interface deverá ser bonita e amigável.
+Quem terminar hoje, vale 10 pontos; da semana que vem em diante vale apenas 8 no máximo;
